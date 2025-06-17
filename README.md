@@ -13,19 +13,25 @@
     * 每次點擊都能由 Gemini AI 即時生成一篇全新的學術風格文章。
     * AI 會根據文章內容，自動產生多種題型（選擇、是非/未提及、填空）的題目。
     * 告別靜態題庫，提供無限的練習機會。
+![image](https://github.com/user-attachments/assets/75598a7b-9ea9-4de2-bfb7-7c8d65a650fa)
+![image](https://github.com/user-attachments/assets/889e1b98-12c5-4f6e-9976-cdb2e0aaea61)
+
 
 * **動態生成寫作題目**：
     * 使用者可根據選擇的主題（如科技、環境），由 AI 生成一個符合雅思 Task 2 格式的寫作題目。
     * 確保每次練習都充滿新鮮感與挑戰性。
+![image](https://github.com/user-attachments/assets/3ca99aa9-7b8a-430b-91ce-06f3d1d04814)
 
 * **AI 深度寫作評分**：
     * 專案的核心亮點！使用者提交作文後，後端會呼叫 Gemini API。
     * AI 會扮演雅思考官，從**任務完成度 (TA)**、**連貫與銜接 (CC)**、**詞彙資源 (LR)**、**語法廣度與準確性 (GRA)** 四個面向進行全面分析。
     * 提供各項子分數、具體評語、總分和總結，給予使用者極具參考價值的回饋。
+![image](https://github.com/user-attachments/assets/04d9ea2c-3f23-4667-8a5f-109e4bc6bf80)
 
 * **全互動式介面**：
     * 使用 `ipywidgets` 在 Colab Notebook 中直接建構操作介面，無需架設網站。
     * 提供下拉式選單、按鈕、文字輸入區等元件，使用者體驗流暢。
+![image](https://github.com/user-attachments/assets/fcd7b906-3c42-4a9d-96ac-cd8db9dce92b)
 
 ---
 
