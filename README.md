@@ -2,7 +2,7 @@
 
 這是一個使用 Google Gemini API 打造的互動式雅思（IELTS）練習平台，專為生成式 AI 課程期末專案而設計。平台完全在 Google Colab 環境中運行，透過 `ipywidgets` 提供互動介面，讓使用者可以進行動態、即時的閱讀與寫作練習。
 
-![IELTS AI Assistant](https://colab.research.google.com/drive/1t0oZ12GKXzYtx_7NowiRRWbOGC-u50vQ?usp=sharing) 
+
 
 
 ---
